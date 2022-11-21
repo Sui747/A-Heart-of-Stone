@@ -104,7 +104,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "1.17.6",
+      "version": "1.17.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -134,7 +134,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.15",
+      "version": "3.0.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -230,7 +230,7 @@
       }
     },
     "com.unity.test-framework": {
-      "version": "1.1.31",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -279,6 +279,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "dev.bolt.addons": {
+      "version": "https://github.com/RealityStop/Bolt.Addons.Community.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "32ad2edd02833850fd09e61df1c6bee810316967"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
